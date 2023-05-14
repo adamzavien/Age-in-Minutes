@@ -1,5 +1,5 @@
 # Age-in-Minutes
-Prompts the user for their date of birth in YYYY-MM-DD format and then prints how old they are in minutes
+Prompts the user for their date of birth in YYYY-MM-DD format and then prints their age in minutes
 
 ## Modules Imported
 1. datetime (https://docs.python.org/3/library/datetime.html)
